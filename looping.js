@@ -20,6 +20,14 @@ for (let i = 0; i < friends.length; i++) {
 
 const numbers = [5, 56, 4847, 87, 879, 998, 95];
 for (let i = 0; i < numbers.length; i++) {
-    console.log(i);
+    // console.log(i);
+    // console.log(numbers[i]);
+}
+
+// using while loop
+
+let i = 0;
+while (i < numbers.length) {
     console.log(numbers[i]);
+    i++;
 }
