@@ -22,6 +22,7 @@ for (let i = 0; i < numbers.length; i++) {
 }
 // console.log(reversed_numbers);
 
+// decremental for loop
 // reversed loop using for loop
 const revRevNumbers = [];
 for (let i = numbers.length - 1; i >= 0; i--) {
